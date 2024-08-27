@@ -8,7 +8,6 @@ const Contact = () => {
       <div className="contact-text">
         <h2>Contact <span>Me</span></h2>
         <h4>Let's work Together</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel diam lectus.</p>
         <div className="contact-list">
 <li><a href='amanedesaleng@gmail.com'><i className='bx bx5-send'>amanedesaleng@gmail.com</i></a></li>
 <li><a href='https://www.linkedin.com/in/amanuel-desalegn-862220297/'><i className='bx bx5-phone'>0955436917</i></a></li>

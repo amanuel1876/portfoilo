@@ -196,7 +196,7 @@ img {
     top: 230px;
     width: 22%; /* Adjust the width as needed */
     height: 50%;
-    background: url('C:\Users\dxbgamers.com\Documents\portfoilo\src\components\amane.jpg') no-repeat;
+    background: url('./components/amane.jpg') no-repeat;
     display: flex;
     background-size: cover;
     border-top-right-radius: 50%; /* Adjust border radius if needed */
